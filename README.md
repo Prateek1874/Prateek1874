@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm currently pursuing BTech in CSE.
+Hi 👋, I'm Prateek!
+
+I'm a B.Tech Computer Science student passionate about building real-world applications using modern technologies. I enjoy working on full-stack web development and machine learning projects, and I love turning ideas into practical solutions.
+
+🔹 Interests: Full-Stack Development, Machine Learning, Data Analytics
+
+I'm always eager to learn new technologies and collaborate on exciting projects.
 
 
 ## 🌐 Socials:
